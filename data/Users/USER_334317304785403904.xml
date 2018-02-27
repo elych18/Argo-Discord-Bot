@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<user>
+	<memoryDiamonds>1350</memoryDiamonds>
+	<moneySpent>239.96999999999997</moneySpent>
+	<hackingCrystals>20</hackingCrystals>
+	<colBalance>7500</colBalance>
+	<totalTicketScout>1</totalTicketScout>
+	<r2ExchangeSwords>0</r2ExchangeSwords>
+	<r3ExchangeSwords>0</r3ExchangeSwords>
+	<r4ExchangeSwords>0</r4ExchangeSwords>
+	<rainbowEssence>0</rainbowEssence>
+	<bannerData>
+		<Banner name="1st Anniversary Countdown Vote Scout" data="1"/>
+		<Banner name="5 Star Upgrade Vote Scout" data="2"/>
+		<Banner name="70000 Pre-Registered Users Celebration Present" data="0"/>
+		<Banner name="Aincrad Idol Singer" data="0"/>
+		<Banner name="Alicization - The World Spins With Swords" data="1"/>
+		<Banner name="Alicization Goes on the Air" data="0"/>
+		<Banner name="Anniversary Ticket VIP Scout" data="0"/>
+		<Banner name="Baton of Friendship! - Sports Festival" data="-1"/>
+		<Banner name="Beaming Summer Gals" data="0"/>
+		<Banner name="Beware of the Kobold Trickster" data="0"/>
+		<Banner name="Birthday Scout - Asuna 9.30" data="1"/>
+		<Banner name="Birthday Scout - Kirito 10.7" data="2"/>
+		<Banner name="Birthday Scout - Silica 10.4" data="1"/>
+		<Banner name="Birthday Scout - Sinon 8.21" data="1"/>
+		<Banner name="Char. Enhancement Vote Scout" data="1"/>
+		<Banner name="Chivalric Men's Uproarious Banquet" data="1"/>
+		<Banner name="Christmas Gold Medal Scout" data="0"/>
+		<Banner name="Colored Leaf Gold Medal Scout" data="0"/>
+		<Banner name="Cook in Love" data="0"/>
+		<Banner name="Countdown VIP Ticket Scout" data="0"/>
+		<Banner name="Dream Circus - Breathtaking Performances" data="-1"/>
+		<Banner name="Fatal Bullet - Unstoppable Force" data="-1"/>
+		<Banner name="Fatal Bullet Release Login Bonus CP" data="0"/>
+		<Banner name="Fateful Showdown - Sticking to Their Guns" data="1"/>
+		<Banner name="First Play in the New Year's Breeze" data="1"/>
+		<Banner name="First Priestess Experience" data="1"/>
+		<Banner name="Friendship Osechi Dishes" data="0"/>
+		<Banner name="G-Star Exhibition Memorial Character Gift" data="0"/>
+		<Banner name="Get up Nerve in Virtual World" data="0"/>
+		<Banner name="Global 1st Anniversary 5 Star Upgrade Vote Scout" data="1"/>
+		<Banner name="Global Ticket Scout - 1st Anniversary of Going Global" data="0"/>
+		<Banner name="Grand Quest of the Top-Ranked" data="0"/>
+		<Banner name="Halloween Gold Medal VIP Scout" data="0"/>
+		<Banner name="Happy Halloween Night" data="-1"/>
+		<Banner name="Happy Hatsumoude in Kimono" data="1"/>
+		<Banner name="How to Play With Twenty People" data="0"/>
+		<Banner name="Idol Like Ticket VIP Scout" data="0"/>
+		<Banner name="In the Stormy Sea - Jolly Roger" data="0"/>
+		<Banner name="Japan Version Camisole Scout" data="0"/>
+		<Banner name="Korea Version Release" data="0"/>
+		<Banner name="Leaning on You" data="-1"/>
+		<Banner name="Lives Drawn in the Virtual World" data="0"/>
+		<Banner name="Looking for Big Illusions" data="0"/>
+		<Banner name="Mace Enhancement Memorial Upgrade Scout" data="1"/>
+		<Banner name="Medal Scout - Sword Dance" data="0"/>
+		<Banner name="Memories of Christmas" data="0"/>
+		<Banner name="Memory of Friendship and Passing of Time" data="1"/>
+		<Banner name="Moonlight Halloween Parade" data="-1"/>
+		<Banner name="My Heart's Snowfall" data="1"/>
+		<Banner name="NYCC Memorial Character Present" data="0"/>
+		<Banner name="New Years Eve Character Gift" data="0"/>
+		<Banner name="Ordinal Scale Movie Release Celebration" data="0"/>
+		<Banner name="Promised Night of the Stars" data="1"/>
+		<Banner name="Proof of Trust X Bonds of Fate" data="1"/>
+		<Banner name="Queen of Chef" data="0"/>
+		<Banner name="Raindrops Concerto" data="1"/>
+		<Banner name="SAO Game Complete Memorial Vote Scout" data="1"/>
+		<Banner name="Starry Night Fairy Santa" data="1"/>
+		<Banner name="Steamy Beauty Bath Time" data="-1"/>
+		<Banner name="Summer Night Festa" data="1"/>
+		<Banner name="Summer Ticket VIP Scout" data="0"/>
+		<Banner name="Survival Battle on Desert" data="0"/>
+		<Banner name="Sweet Chocolatiere - Melt Your Sweetheart" data="-1"/>
+		<Banner name="Sweet Sweet Honey" data="1"/>
+		<Banner name="The Crimson Trump Card" data="-1"/>
+		<Banner name="The Fairy Daughter" data="0"/>
+		<Banner name="The Guys are Performing in Memory Defrag" data="0"/>
+		<Banner name="The Two Bonded by Phantom Bullets" data="1"/>
+		<Banner name="Tropical Dream" data="1"/>
+		<Banner name="Valentines Day Gold Medal Scout" data="0"/>
+		<Banner name="Wedding Anniversary - Kirito and Asuna" data="1"/>
+		<Banner name="White Christmas - Footsteps in the Snow" data="1"/>
+		<Banner name="Yukata Night" data="5"/>
+	</bannerData>
+	<characterBox>
+		<Character prefix="Spriggan Seeker" name="Philia" rarity="3"/>
+		<Character prefix="Salamander Samurai" name="Klein" rarity="3"/>
+		<Character prefix="" name="Siune" rarity="3"/>
+		<Character prefix="Solo" name="Kirito" rarity="3"/>
+		<Character prefix="Battle Smith" name="Lisbeth" rarity="3"/>
+		<Character prefix="Spriggan" name="Kirito" rarity="3"/>
+		<Character prefix="Agile Kitty" name="Silica" rarity="3"/>
+		<Character prefix="Floor-Clearing Demon" name="Asuna" rarity="3"/>
+		<Character prefix="Former Beta Tester" name="Kirito" rarity="2"/>
+		<Character prefix="" name="Kagemune" rarity="2"/>
+		<Character prefix="" name="Argo" rarity="2"/>
+		<Character prefix="" name="Asuna" rarity="2"/>
+		<Character prefix="" name="Philia" rarity="2"/>
+		<Character prefix="" name="Kibaou" rarity="2"/>
+		<Character prefix="" name="Sachi" rarity="2"/>
+		<Character prefix="" name="Rosalia" rarity="2"/>
+		<Character prefix="" name="Agil" rarity="2"/>
+		<Character prefix="" name="Lisbeth" rarity="2"/>
+		<Character prefix="" name="Klein" rarity="2"/>
+		<Character prefix="" name="Strea" rarity="2"/>
+		<Character prefix="" name="Corvatz" rarity="2"/>
+		<Character prefix="" name="Thinker" rarity="2"/>
+		<Character prefix="" name="Sigurd" rarity="2"/>
+		<Character prefix="" name="Yulier" rarity="2"/>
+		<Character prefix="" name="Silica" rarity="2"/>
+		<Character prefix="" name="Diavel" rarity="2"/>
+		<Character prefix="" name="Sinon" rarity="2"/>
+	</characterBox>
+	<weaponBox>
+	</weaponBox>
+</user>
